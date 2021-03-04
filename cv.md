@@ -10,7 +10,7 @@
 ## Objective
   
   ### I want to obtain a position as a JS/FE developer in your company
-  ### Personal qualities: -hardworking -willingness to learn -dependable -versatile
+  ### Personal qualities: *hardworking, willingness to learn, dependable, versatile*
    
    
 ## Skills
@@ -19,10 +19,10 @@
   ### Language: *English (A2)*
   ### Hobbies: *travel, reading*
   
- ## Work experience
+## Work experience
   
   ### 2020: https://praktikum.yandex.ru/ *HTML, CSS, JavaScript: Free introductory course*
   
- ## Education
+## Education
   
   ### 2003 - 2008 Vitebsk State University
